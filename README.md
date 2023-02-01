@@ -14,6 +14,21 @@ The goal of the game is to destroy all the enemy UFOs that are invading the plan
 2. E or SPACE to shoot
 3. Drag with the mouse to look around and scrool the mouse wheel to zoom
 
-Link for playing the game: https://sapienzainteractivegraphicscourse.github.io/final-project-planetraiders-team/
+[![Play]][Play game]
 
-Report: https://raw.githubusercontent.com/SapienzaInteractiveGraphicsCourse/final-project-planetraiders-team/main/report.pdf
+For more information you can read the project report.
+<br>
+<br>
+[![Project]][Project link] 
+
+[Play]: https://img.shields.io/badge/Play-37a779?style=for-the-badge
+[Play game]: https://alessio-17.github.io/Visual_Analytics_Spotify/
+
+[Project]: https://img.shields.io/badge/report-d4262f?style=for-the-badge
+[Project link]: [https://github.com/Alessio-17/PlanetRaidersGame/blob/main/report.pdf]
+
+---
+
+
+#### Disclaimer
+This is a university project, and for time purposes it has only been tested on Firefox. Thus, it may not work correctly on other browsers.
