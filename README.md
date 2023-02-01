@@ -25,7 +25,7 @@ For more information you can read the project report.
 [Play game]: https://alessio-17.github.io/PlanetRaidersGame/
 
 [Project]: https://img.shields.io/badge/report-d4262f?style=for-the-badge
-[Project link]: [https://github.com/Alessio-17/PlanetRaidersGame/blob/main/report.pdf]
+[Project link]: https://github.com/Alessio-17/PlanetRaidersGame/blob/main/report.pdf
 
 ---
 
