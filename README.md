@@ -22,7 +22,7 @@ For more information you can read the project report.
 [![Project]][Project link] 
 
 [Play]: https://img.shields.io/badge/Play-37a779?style=for-the-badge
-[Play game]: https://alessio-17.github.io/Visual_Analytics_Spotify/
+[Play game]: https://alessio-17.github.io/PlanetRaidersGame/
 
 [Project]: https://img.shields.io/badge/report-d4262f?style=for-the-badge
 [Project link]: [https://github.com/Alessio-17/PlanetRaidersGame/blob/main/report.pdf]
